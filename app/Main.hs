@@ -9,5 +9,15 @@ import System.IO
 minInt = minBound :: Int
 maxInt = maxBound :: Int
 
+-- Double
+bigFloat = 3.99
+
+-- Bool  True or False
+--char ''
+-- Tuples
+
+always5 :: Int
+always5 = 5
+
 main :: IO ()
 main = someFunc
